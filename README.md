@@ -1,6 +1,6 @@
 # JURÍSFÁCIL
 
-Uma plataforma digital inovadora para conectar clientes a advogados de forma prática, segura e acessível.
+Uma plataforma digital para conectar clientes a advogados de forma prática, segura e acessível.
 
 ## 🚀 Objetivo
 O EncontraAdvogados tem como propósito facilitar o acesso à assistência jurídica, permitindo que clientes encontrem advogados especializados de maneira rápida e eficiente.
