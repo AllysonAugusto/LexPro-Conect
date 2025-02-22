@@ -8,12 +8,11 @@ O EncontraAdvogados tem como propósito facilitar o acesso à assistência jurí
 ## 🔧 Funcionalidades Implementadas
 
 ### 🌍 Navegação (NAV)
-- **Logo**
-- **Home**
 - **Sobre Nós**
 - **Encontre um Advogado**
 - **Sou Cliente** (Cadastro de Clientes)
 - **Sou Advogado** (Cadastro de Advogados)
+- **Blog** (Onde os advogados poderão ver entre si os seus artigos)
 
 ### 🏠 Página Inicial
 - **Pesquisa de advogados por área de atuação**
